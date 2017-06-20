@@ -8,4 +8,4 @@
 
 @ To run it you will to import  JFreeChart (http://www.jfree.org/jfreechart/)
 
-@ indentation is out of wack (could not fix it for love or money)
+@ Indentation is out of wack (could not fix it for love or money)
