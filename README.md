@@ -6,6 +6,6 @@
 
 @ Wrote this tool for my own purpose. 
 
-@ To run it you will to import  JFreeChart (http://www.jfree.org/jfreechart/)
+@ To run it you will have to import  JFreeChart (http://www.jfree.org/jfreechart/)
 
 @ Indentation is out of wack (could not fix it for love or money)
